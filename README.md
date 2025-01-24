@@ -34,22 +34,36 @@ Clique em Analyze.
 
 ![analyze](https://github.com/user-attachments/assets/ed4abd27-1d8b-4dc4-9be3-bb559293547b)
 
+# Insights:
+## Experiência do Usuário:
 
-## Texto 1:
+- Texto 1: O usuário teve uma experiência positiva, destacando a facilidade e eficiência do processo de abertura de conta.
+- Texto 2: O usuário teve uma experiência negativa, mencionando a confusão e a demora no processo.
 
-### Sentimento: Positivo
-#### Opiniões:
-- Experiência suave
-- Processo de onboarding eficiente
-- Clareza nas explicações
-- Processo sem problemas
-- Elogios à equipe
+## Clareza e Simplicidade:
 
-## Texto 2:
+- Texto 1: A clareza das instruções e a simplicidade do processo foram pontos positivos.
+- Texto 2: A falta de clareza e a complexidade do processo foram pontos negativos.
 
-### Sentimento: Negativo
-#### Opiniões:
-- Processo confuso e demorado
-- Passos desnecessários
-- Necessidade de suporte
-- Necessidade de melhorias
+## Suporte ao Cliente:
+
+- Texto 1: Não houve necessidade de suporte, indicando um processo bem estruturado.
+- Texto 2: O usuário precisou contatar o suporte várias vezes, sugerindo que o processo pode ser melhorado.
+
+# Possibilidades
+## Melhoria do Processo:
+
+- Simplificar o processo de abertura de conta para reduzir a confusão e o tempo necessário.
+Remover etapas desnecessárias para tornar o processo mais eficiente.
+Aprimoramento da Comunicação:
+
+- Melhorar a clareza das instruções fornecidas aos usuários.
+Garantir que todas as etapas sejam explicadas de forma clara e concisa.
+Suporte ao Cliente:
+
+- Implementar um sistema de suporte mais eficiente para ajudar os usuários que encontram dificuldades.
+Fornecer guias ou tutoriais adicionais para ajudar os usuários a completar o processo sem problemas.
+Feedback Contínuo:
+
+- Coletar feedback dos usuários regularmente para identificar áreas de melhoria.
+Usar análises de sentimento para monitorar a satisfação do usuário e ajustar o processo conforme necessário.
